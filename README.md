@@ -1,10 +1,11 @@
-<h2 align="center">
+<!-- <h2 align="center">
     ✨ Hi there, I'm Abhay!👋 ✨
-</h2>
+</h2> -->
 <!-- [![]()]() For Gif -->
+<img src="https://github.com/abzsd/abzsd/blob/main/name_gif%20(2).gif">
 <p align="center">
     <b>I'm a Final Year CS undergrad student at BITS Pilani, K. K. Birla Goa Campus</b></br>
-  <b>I'm also an IBM Qiskit Advocate '21</b>
+    <b>I'm also an IBM Qiskit Advocate '21 :)</b>
 </p>
 
 [![GMail](https://img.shields.io/badge/-GMail-000?&logo=gmail)](mailto:abhaykambley1@gmail.com) 
