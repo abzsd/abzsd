@@ -1,7 +1,7 @@
-<!-- <h2 align="center">
+<h2 align="center">
     ✨ Hi there, I'm Abhay!👋 ✨
-</h2> -->
-[![]()]()
+</h2>
+<!-- [![]()]() For Gif -->
 <p align="center">
     <b>I'm a Final Year CS undergrad student at BITS Pilani, K. K. Birla Goa Campus</b></br>
   <b>I'm also an IBM Qiskit Advocate '21</b>
