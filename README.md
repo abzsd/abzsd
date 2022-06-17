@@ -13,7 +13,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-000?&logo=medium)](https://medium.com/@abhaykambley1)
 [![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)]()
 [![Website](https://img.shields.io/badge/-Website-000?&logo=website)]()
-[![GitHub followers](https://img.shields.io/github/followers/abzsd?label=Follow&style=social)](https://github.com/abzsd) 
+<!-- [![GitHub followers](https://img.shields.io/github/followers/abzsd?label=Follow&style=social)](https://github.com/abzsd)  -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abzsd)
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn--green?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kamble-06a183162/) 
